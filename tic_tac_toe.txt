@@ -1,0 +1,10 @@
+tic_tac_toe/
+│── game/
+│   ├── __init__.py
+│   ├── board.py
+│   ├── player.py
+│   └── game.py
+│── utils/
+│   ├── __init__.py
+│   └── validator.py
+└── main.py
